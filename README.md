@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎥 I teach web dev to **millions** on **[Tiktok](https://www.tiktok.com/@ancientprogrammerist)**  
+- 🎥 I upload web dev to **millions** on **[Tiktok](https://www.tiktok.com/@ancientprogrammerist)**  
 - 💻 Passionate about building fullstack apps with **React**, **Next.js**, **TypeScript**, and **Supabase**
 - 🧠 Constantly learning & sharing what I learn
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
