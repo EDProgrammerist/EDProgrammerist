@@ -23,7 +23,11 @@
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
 
 ---
+🎥 Check Out My React Video!
 
+Watch me build with React.js — packed with cool features and modern practices.
+
+🚨 [👉 Click here to watch the video]([mytiktok link](https://www.tiktok.com/@ancientprogrammerist))
 ---
 
 ## 📈 GitHub Stats
