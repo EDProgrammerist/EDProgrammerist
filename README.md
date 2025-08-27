@@ -43,4 +43,4 @@
 
 [![Twitter](https://img.shields.io/badge/-Tiktok-1DA1F2?style=flat&logo=twitter&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsmeedjamesursal/)
