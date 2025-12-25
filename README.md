@@ -1,46 +1,48 @@
-# 👋 Hey, I'm Ed James – aka **EDProgrammerist** 👨‍💻
-
+<table align="center">
+    <td>
+    <a href="" title="Visit my portfolio"><img src="https://i.postimg.cc/Hs3ghRR5/stack.jpg"/></a>
+  </td>
+  <td>
+  <div align="center"><br/>
+  <h3>BSIT Student – React Enthusiast – FIL/EN/JP</h3>
+  <a href="">Visit my Portfolio</a> ››
+  <a href="mailto:EdJames.Ursal@proton.me">Get in touch</a> ››
+  <a href=""></a>
+</div> <br/>
+    <p><strong>🎨 Frontend</strong></p>
+    <ul>
+<li><strong>Frameworks:</strong> Next.js, React, Astro</li>
+      <li><strong>Languages:</strong> TypeScript, JavaScript</li>
+      <li><strong>Styling & UI:</strong> Tailwind, shadcn/ui, Sass, Bootstrap</li>
+      <li><strong>Animation & 3D:</strong> GSAP, Three.js, Framer Motion, Anime.js</li>
+      <li><strong>Practices:</strong> Responsive Design, Accessibility (WCAG) </li>
+    </ul>
+<p><strong>⚙ Backend</strong></p>  
+<ul>
+  <li><strong>Environments & Runtimes:</strong> Node.js,Next.js</li>
+  <li><strong>Databases:</strong> MongoDB, Supabase, Postgres, Neon</li>
+  <li><strong>ORMs:</strong> Prisma, Drizzle</li>
+  <li><strong>Services:</strong> Stripe, Firebase, Appwrite, [...]</li>
+</ul>
+    <p><strong>📈 Marketing</strong></p>
+<ul>
+  <li><strong>Analytics & Insights:</strong> PostHog, Google Analytics</li>
+  <li><strong>Optimization:</strong> SEO, A/B Testing, SEMrush/Ahrefs</li>
+  <li><strong>CRM: </strong>Loops, Mailchimp, Copywriting</li>
+</ul>
+<p><strong>💼 Workflow</strong></p>
+<ul>
+  <li><strong>AI:</strong> ChatGPT, Gemini, Claude</li>
+  <li><strong>DevOps & CI/CD:</strong> Git, GitHub</li>
+  <li><strong>Mobile Development:</strong> React Native, Expo</li>
+  <li><strong>Low-Code:</strong></li>
+  <li><strong>Hosting:</strong> Vercel, Netlify</li>
+  <li><strong>Media:</strong> Figma, Photoshop</li>
+  <li><strong>Operations:</strong> Not yet</li>
+<a href=""><img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 400px; height:1px" /></a>
+</ul><br/>
+  </td>
+</table>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=BSIT+Student+%7C+React+Enthusiast;Tiktok+@ancientprogrammerist;" alt="Typing SVG" />
+  <a href="" title="Visit my portfolio"><img src="https://i.postimg.cc/ncJ7vwqH/footer.gif"/></a>
 </div>
-
----
-
-## 🚀 About Me
-
-- 🎥 I upload web dev to **millions** on **[Tiktok](https://www.tiktok.com/@ancientprogrammerist)**  
-- 💻 Passionate about building fullstack apps with **React**, **Next.js**, **TypeScript**, and **Supabase**
-- 🧠 Constantly learning & sharing what I learn
-- 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
-
----
-
-## 🧠 My Favorite Stack
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
-
----
-🎥 Check Out My React Video!
-
-**Watch me build with React.js** packed with cool features and modern practices.
-
-🚨 **[👉 Click here to watch the video](https://www.tiktok.com/@ancientprogrammerist)**
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edprogrammerist&show_icons=true&theme=react&hide=contribs&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edprogrammerist&theme=react" />
-</div>
-
----
-
-## 🤝 Connect with Me
-
-[![Tiktok](https://img.shields.io/badge/-Tiktok-1DA1F2?style=flat&logo=twitter&logoColor=black)](https://www.tiktok.com/@ancientprogrammerist)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsmeedjamesursal/)
