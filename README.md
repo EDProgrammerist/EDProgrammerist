@@ -6,7 +6,7 @@
   <div align="center"><br/>
   <h3>BSIT Student – React Enthusiast – FIL/EN/JP</h3>
   <a href="">Visit my Portfolio</a> ››
-  <a href="mailto:EdJames.Ursal@proton.me">Get in touch</a> ››
+  <a href="mailto:EdJames.Ursal@proton.me">Get in touch</a> 
   <a href=""></a>
 </div> <br/>
     <p><strong>🎨 Frontend</strong></p>
