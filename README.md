@@ -26,9 +26,9 @@
 </ul>
     <p><strong>📈 Marketing</strong></p>
 <ul>
-  <li><strong>Analytics & Insights:</strong> PostHog, Google Analytics</li>
-  <li><strong>Optimization:</strong> SEO, A/B Testing, SEMrush/Ahrefs</li>
-  <li><strong>CRM: </strong>Loops, Mailchimp, Copywriting</li>
+  <li><strong>Analytics & Insights:</strong> PostHog</li>
+  <li><strong>Optimization:</strong> None</li>
+  <li><strong>CRM: </strong>None</li>
 </ul>
 <p><strong>💼 Workflow</strong></p>
 <ul>
