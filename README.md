@@ -20,7 +20,7 @@
 <p><strong>⚙ Backend</strong></p>  
 <ul>
   <li><strong>Environments & Runtimes:</strong> Node.js,Next.js</li>
-  <li><strong>Databases:</strong> MongoDB, Supabase, Postgres, Neon</li>
+  <li><strong>Databases:</strong> MongoDB, Supabase, Postgres, Neon, Laravel</li>
   <li><strong>ORMs:</strong> Prisma, Drizzle</li>
   <li><strong>Services:</strong> Stripe, Firebase, Appwrite, [...]</li>
 </ul>
